@@ -21,7 +21,7 @@ This is a basic dialer application that includes:
 ## Getting Started
 
 ### Prerequisites
-- Android Studio (Arctic Fox or newer recommended)
+- Android Studio (Arctic Fox)
 - A physical Android device (emulator might not support actual phone calls)
 
 ### Setup
@@ -55,3 +55,4 @@ Some ideas for future development:
 - Test on a real device for best results
 
 Feel free to fork and build upon this!
+stay tuned the biggest update for this app is comming soon!😉
